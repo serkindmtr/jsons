@@ -1,11 +1,12 @@
-{
-  "type": "text",
-  "text": "simple text with button",
-  "buttons": [
     {
-      "type": "url",
-      "caption": "External link",
-      "url": "https://manychat.com"
+        "version": "v2",
+        "content": {
+            "messages": [
+                {
+                   "type": "text",
+                   "text": "simple text"    
+                }
+            ],
+            "actions": []
+        }
     }
-  ]
-}
