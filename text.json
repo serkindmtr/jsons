@@ -1,0 +1,11 @@
+{
+  "type": "text",
+  "text": "simple text with button",
+  "buttons": [
+    {
+      "type": "url",
+      "caption": "External link",
+      "url": "https://manychat.com"
+    }
+  ]
+}
