@@ -15,11 +15,6 @@
             "type": "call",
             "caption": "Call me",
             "phone": "+1 (555) 555-55-55"
-          },
-          {
-            "type": "node",
-            "caption": "Show",
-            "target": "content20180402124855_526112"
           }
         ]
       },
