@@ -19,7 +19,7 @@
           {
             "type": "node",
             "caption": "Show",
-            "target": "external flow"
+            "target": "content20180402124855_526112"
           }
         ]
       },
@@ -33,18 +33,18 @@
             "target": "content20180402135535_503912"
           },
           {
-        "type":    "buy",
-        "caption": "Buy",
-        "customer": {
-            "shipping_address": true,
-            "contact_name":     false,
-            "contact_phone":    true
-        },
-        "product": {
-            "label": "T-shirt",
-            "price": "22.50"
-        }
-    }
+            "type": "buy",
+            "caption": "Buy",
+            "customer": {
+              "shipping_address": true,
+              "contact_name": false,
+              "contact_phone": true
+            },
+            "product": {
+              "label": "T-shirt",
+              "price": "22.50"
+            }
+          }
         ]
       },
       {
