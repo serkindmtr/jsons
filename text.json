@@ -77,6 +77,13 @@
             "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/ca/big_d542b311198de5a5d8aaa13fddd2148a.JPG",
             "action_url": "https://manychat.com",
             "buttons": []
+          },
+          {
+            "title": "list title1",
+            "subtitle": "list substitle2",
+            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/ca/big_d542b311198de5a5d8aaa13fddd2148a.JPG",
+            "action_url": "https://manychat.com",
+            "buttons": []
           }
         ]
       }
