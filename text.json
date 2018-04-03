@@ -20,7 +20,7 @@
       },
       {
         "type": "image",
-        "url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/ca/big_d542b311198de5a5d8aaa13fddd2148a.JPG",
+        "url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/fb1619228868162312/ca/big_6ba21bb521c1b911a27b3cb9a70a5b59.jpg",
         "buttons": [
           {
             "type": "flow",
@@ -57,7 +57,7 @@
           {
             "title": "Card title",
             "subtitle": "card text",
-            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/ca/big_d542b311198de5a5d8aaa13fddd2148a.JPG",
+            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/fb1619228868162312/ca/big_6ba21bb521c1b911a27b3cb9a70a5b59.jpg",
             "buttons": [
               {
                 "type": "share"
@@ -74,14 +74,14 @@
           {
             "title": "list title1",
             "subtitle": "list substitle2",
-            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/ca/big_d542b311198de5a5d8aaa13fddd2148a.JPG",
+            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/fb1619228868162312/ca/big_6ba21bb521c1b911a27b3cb9a70a5b59.jpg",
             "action_url": "https://manychat.com",
             "buttons": []
           },
           {
             "title": "list title1",
             "subtitle": "list substitle2",
-            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/ca/big_d542b311198de5a5d8aaa13fddd2148a.JPG",
+            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/fb1619228868162312/ca/big_6ba21bb521c1b911a27b3cb9a70a5b59.jpg",
             "action_url": "https://manychat.com",
             "buttons": []
           }
