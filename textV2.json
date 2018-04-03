@@ -76,13 +76,7 @@
             "subtitle": "list substitle2",
             "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/fb1619228868162312/ca/big_6ba21bb521c1b911a27b3cb9a70a5b59.jpg",
             "action_url": "https://manychat.com",
-            "buttons": [
-              {
-                "type": "node",
-                "caption": "Show",
-                "target": "external flow"
-              }
-            ]
+            "buttons": []
           },
           {
             "title": "list title1",
