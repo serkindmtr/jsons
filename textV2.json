@@ -112,11 +112,6 @@
         "action": "set_field_value",
         "field_name": "Number",
         "value": "111"
-      },
-      {
-        "action": "set_field_value",
-        "field_name": "Text",
-        "value": "text"
       }
     ]
   }
