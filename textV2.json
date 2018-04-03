@@ -110,7 +110,7 @@
       },
       {
         "action": "unset_field_value",
-        "field_name": "Text",
+        "field_name": "Number",
         "value": "text"
       }
     ]
