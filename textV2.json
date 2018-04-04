@@ -93,31 +93,6 @@
         ]
       }
     ],
-    "actions": [
-      {
-        "action": "add_tag",
-        "tag_name": "tag"
-      },
-      {
-        "action": "set_field_value",
-        "field_name": "Boolean",
-        "value": "true"
-      },
-      {
-        "action": "set_field_value",
-        "field_name": "Date",
-        "value": "2018-08-08"
-      },
-      {
-        "action": "set_field_value",
-        "field_name": "DateTime",
-        "value": "2018-08-08T08:08:08.000Z"
-      },
-      {
-        "action": "set_field_value",
-        "field_name": "Number",
-        "value": "123"
-      }
-    ]
+    "actions": []
   }
 }
