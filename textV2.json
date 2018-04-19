@@ -28,6 +28,13 @@
         "field_name": "Text",
         "value": "textTextText"
       }
+    ],
+    "quick_replies": [
+      {
+        "type": "text",
+        "caption": "Quick reply text",
+        "target": "My Content"
+      }
     ]
   }
 }
