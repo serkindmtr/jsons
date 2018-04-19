@@ -3,47 +3,15 @@
   "content": {
     "messages": [
       {
-        "type": "audio",
-        "url": "https://manybot-files.s3.eu-central-1.amazonaws.com/fb187472635187940/ca/2018/04/19/b20a10909fc7fe4d02cc000120bb34d4/Sum_41_-_Fat_Lip.mp3",
-        "buttons": []
+        "type": "text",
+        "text": "simple text"
       }
     ],
     "quick_replies": [
       {
-        "type": "dynamic_block_callback",
-        "caption": "Dynamic content",
-        "url": "https://s.manychat.com/test/mirrorDynamicBlock",
-        "method": "post",
-        "payload": {
-          "version": "v2",
-          "content": {
-            "messages": [
-              {
-                "type": "text",
-                "text": "simple text"
-              }
-            ],
-            "quick_replies": [
-              {
-                "type": "dynamic_block_callback",
-                "caption": "Dynamic content",
-                "url": "https://s.manychat.com/test/mirrorDynamicBlock",
-                "method": "post",
-                "payload": {
-                  "version": "v2",
-                  "content": {
-                    "messages": [
-                      {
-                        "type": "text",
-                        "text": "DYNAMIC QUICK RELY WORK"
-                      }
-                    ]
-                  }
-                }
-              }
-            ]
-          }
-        }
+        "type": "node",
+        "caption": "Show",
+        "target": "Target"
       }
     ]
   }
