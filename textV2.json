@@ -9,9 +9,9 @@
     ],
     "quick_replies": [
       {
-        "type": "node",
-        "caption": "Show",
-        "target": "Target"
+        "type": "flow",
+        "caption": "Go",
+        "target": "content20180419125344_272140"
       }
     ]
   }
