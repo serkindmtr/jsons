@@ -12,8 +12,16 @@
       {
         "type": "dynamic_block_callback",
         "caption": "Dynamic content",
-        "url": "https://raw.githubusercontent.com/serkindmtr/jsons/master/textV1.json",
-        "method": "get"
+        "url": "https://s.manychat.com/test/mirrorDynamicBlock",
+        "method": "post",
+        "payload": {
+          "messages": [
+            {
+              "type": "text",
+              "text": "DYNAMIC QUICK RELY WORK"
+            }
+          ]
+        }
       }
     ]
   }
