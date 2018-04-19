@@ -30,12 +30,15 @@
                 "url": "https://s.manychat.com/test/mirrorDynamicBlock",
                 "method": "post",
                 "payload": {
-                  "messages": [
-                    {
-                      "type": "text",
-                      "text": "DYNAMIC QUICK RELY WORK"
-                    }
-                  ]
+                  "version": "v2",
+                  "content": {
+                    "messages": [
+                      {
+                        "type": "text",
+                        "text": "DYNAMIC QUICK RELY WORK"
+                      }
+                    ]
+                  }
                 }
               }
             ]
