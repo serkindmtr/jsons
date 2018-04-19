@@ -5,6 +5,11 @@
                 {
                    "type": "text",
                    "text": "simple text"    
+                },
+                {
+                    "type": "video",
+                    "url": "https://manybot-files.s3.eu-central-1.amazonaws.com/fb187472635187940%2Fca%2F2018%2F04%2F19%2F0063a7fb903474be25b55142e4b69a95%2F502675353.mp4",
+                    "buttons": [] 
                 }
         ]
   }
