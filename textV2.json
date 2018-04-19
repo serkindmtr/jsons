@@ -19,6 +19,12 @@
           "content": {
             "messages": [
               {
+                "type": "text",
+                "text": "simple text"
+              }
+            ],
+            "quick_replies": [
+              {
                 "type": "dynamic_block_callback",
                 "caption": "Dynamic content",
                 "url": "https://s.manychat.com/test/mirrorDynamicBlock",
