@@ -10,9 +10,10 @@
     ],
     "quick_replies": [
       {
-        "type": "flow",
-        "caption": "Go",
-        "target": "content20180419125344_272140"
+        "type": "dynamic_block_callback",
+        "caption": "Dynamic content",
+        "url": "https://raw.githubusercontent.com/serkindmtr/jsons/master/textV1.json",
+        "method": "get"
       }
     ]
   }
