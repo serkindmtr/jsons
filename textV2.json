@@ -1,8 +1,11 @@
 {
   "version": "v2",
   "content": {
-       "type": "video",
-       "url": "https://manybot-files.s3.eu-central-1.amazonaws.com/fb1619228868162312%2Fca%2F2018%2F04%2F19%2Fcb17adeb276e09b68f3668ebff94ebc7%2F502675353.mp4",
-       "buttons": [] 
-    }
+       "messages": [
+                {
+                   "type": "text",
+                   "text": "simple text"    
+                }
+        ]
+  }
 }
