@@ -17,6 +17,17 @@
           }
         ]
       }
+    ],
+    "actions": [
+      {
+        "action": "add_tag",
+        "tag_name": "example tag"
+      },
+      {
+        "action": "set_field_value",
+        "field_name": "Text",
+        "value": "textTextText"
+      }
     ]
   }
 }
