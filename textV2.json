@@ -3,8 +3,9 @@
   "content": {
     "messages": [
       {
-        "type": "text",
-        "text": "simple text"
+        "type": "audio",
+        "url": "https://manybot-files.s3.eu-central-1.amazonaws.com/fb187472635187940/ca/2018/04/19/b20a10909fc7fe4d02cc000120bb34d4/Sum_41_-_Fat_Lip.mp3",
+        "buttons": []
       }
     ],
     "quick_replies": [
