@@ -31,9 +31,9 @@
     ],
     "quick_replies": [
       {
-        "type": "text",
-        "caption": "Quick reply text",
-        "target": "content20180419125344_272140"
+        "type": "node",
+        "caption": "Show",
+        "target": "Target"
       }
     ]
   }
