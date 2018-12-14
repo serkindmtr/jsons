@@ -6,13 +6,6 @@
         "type": "text",
         "text": "simple text"
       }
-    ],
-    "quick_replies": [
-      {
-        "type": "node",
-        "caption": "Show",
-        "target": "Target"
-      }
     ]
   }
 }
